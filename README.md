@@ -1,2 +1,2 @@
 # Learn By Coding challenges
-###Different Challenges/tasks to be completed using the following languages: C++, C#, Python, Java, Node.JS and Google's GO.
+### Different Challenges/tasks to be completed using the following languages: C++, C#, Python, Java, Node.JS and Google's GO.
