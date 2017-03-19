@@ -21,18 +21,18 @@ Output definition
 
 The output for this problem should contain H lines consisting of W characters describing the grid state after T steps.
 
-Example input
-
- 5 5 2   // 3 numbers seperated by a space
- *###*   // 4 plants in an array and so on
- #***#
- *###*
- #***#
- *###*
- Example output
+> Example input
  
- *#*#*
- #*.*#
- *###*
- #*.*#
-*#*#*
+> 5 5 2   // 3 numbers seperated by a space
+> *###*   // 4 plants in an array and so on
+> #***#
+> *###*
+> #***#
+> *###*
+> Example output
+ 
+> *#*#*
+> #*.*#
+> *###*
+> #*.*#
+> *#*#*
