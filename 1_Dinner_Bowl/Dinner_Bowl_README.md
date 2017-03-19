@@ -17,21 +17,35 @@ Your output should contain t lines, each with a single integer representing the 
 > Example input
 
 > 3
+
 > 4
+
 > 5 20
+
 > 3 10
+
 > 7 7
+
 > 8 12
+
 > 3
+
 > 3 30
+
 > 4 15
+
 > 5 28
+
 > 2
+
 > 180 20
+
 > 180 55
 
 > Example output
 
 > 205
-> 197
+
+> 197 \\
+
 > 0
