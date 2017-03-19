@@ -36,3 +36,8 @@ The output for this problem should contain H lines consisting of W characters de
 > *###*
 > #*.*#
 > *#*#*
+
+what the fu?
+
+asdasd
+asdasd
