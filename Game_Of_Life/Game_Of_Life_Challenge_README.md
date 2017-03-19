@@ -23,8 +23,8 @@ The output for this problem should contain H lines consisting of W characters de
 
 Example input
 
- 5 5 2
- *###*
+ 5 5 2   // 3 numbers seperated by a space
+ *###*   // 4 plants in an array and so on
  #***#
  *###*
  #***#
