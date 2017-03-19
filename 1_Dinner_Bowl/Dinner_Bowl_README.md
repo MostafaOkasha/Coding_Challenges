@@ -46,6 +46,6 @@ Your output should contain t lines, each with a single integer representing the 
 
 > 205
 
-> 197 \\
+> 197
 
 > 0
